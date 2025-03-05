@@ -1,0 +1,577 @@
+# depslib dependency file v1.0
+1670755943 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto versao 1\teste versao 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1672423786 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcaoLerAuxiliar.h"
+	"funcoesAvaria.h"
+
+1671409419 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\ficheiro.c
+	<stdio.h>
+	<stdlib.h>
+	"ficheiro.h"
+
+1671409419 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\ficheiro.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+
+1671533966 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\constantes.h
+
+1672144019 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\funcoesportateis.h
+	"constantes.h"
+	"funcaoLerAuxiliar.h"
+
+1671620763 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\funcaolerauxiliar.h
+	"constantes.h"
+
+1671631212 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\funcoesrequisicao.h
+	"constantes.h"
+	"funcoesportateis.h"
+
+1671623369 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\funcaolerauxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcaoLerAuxiliar.h"
+
+1672144127 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\funcoesavaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAvaria.h"
+
+1672423786 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\funcoesavaria.h
+	"constantes.h"
+	"funcaoLerAuxiliar.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+
+1672144127 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesportateis.h"
+
+1672328482 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste do projeto, divisao\teste versao 1\funcoesrequisicao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesrequisicao.h"
+
+1672996921 source:c:\users\user\desktop\teste 8\teste versao 2\funcaolerauxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcaoLerAuxiliar.h"
+
+1672996921 c:\users\user\desktop\teste 8\teste versao 2\funcaolerauxiliar.h
+	"constantes.h"
+
+1672997299 c:\users\user\desktop\teste 8\teste versao 2\constantes.h
+
+1672996921 source:c:\users\user\desktop\teste 8\teste versao 2\funcoesavaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAvaria.h"
+
+1672996921 c:\users\user\desktop\teste 8\teste versao 2\funcoesavaria.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1672996921 c:\users\user\desktop\teste 8\teste versao 2\funcoesrequisicao.h
+	"constantes.h"
+	"funcoesportateis.h"
+
+1672996921 c:\users\user\desktop\teste 8\teste versao 2\funcoesportateis.h
+	"constantes.h"
+	"funcaoLerAuxiliar.h"
+
+1672996921 source:c:\users\user\desktop\teste 8\teste versao 2\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesportateis.h"
+
+1672996921 source:c:\users\user\desktop\teste 8\teste versao 2\funcoesrequisicao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesrequisicao.h"
+
+1672996921 source:c:\users\user\desktop\teste 8\teste versao 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcaoLerAuxiliar.h"
+	"funcoesAvaria.h"
+	"funcoesEstatisticas.h"
+	"funcoesDevolucoes.h"
+
+1672996921 c:\users\user\desktop\teste 8\teste versao 2\funcoesestatisticas.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1672996921 c:\users\user\desktop\teste 8\teste versao 2\funcoesdevolucoes.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcoesAvaria.h"
+	"ficheiro.h"
+
+1672996921 c:\users\user\desktop\teste 8\teste versao 2\ficheiro.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+
+1672997299 source:c:\users\user\desktop\teste 8\teste versao 2\ficheiro.c
+	<stdio.h>
+	<stdlib.h>
+	"ficheiro.h"
+
+1672997299 source:c:\users\user\desktop\teste 8\teste versao 2\funcoesdevolucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesDevolucoes.h"
+
+1672997299 source:c:\users\user\desktop\teste 8\teste versao 2\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesEstatisticas.h"
+
+1673108201 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\ficheiro.c
+	<stdio.h>
+	<stdlib.h>
+	"ficheiro.h"
+
+1673028543 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\ficheiro.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+
+1673109883 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\constantes.h
+
+1673109883 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesportateis.h
+	"constantes.h"
+	"funcaoLerAuxiliar.h"
+
+1673109883 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcaolerauxiliar.h
+	"constantes.h"
+
+1673109883 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesrequisicao.h
+	"constantes.h"
+	"funcoesportateis.h"
+
+1673028543 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcaolerauxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcaoLerAuxiliar.h"
+
+1673028543 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesavaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAvaria.h"
+
+1673109883 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesavaria.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673111036 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesdevolucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesDevolucoes.h"
+
+1673028544 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesdevolucoes.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcoesAvaria.h"
+	"ficheiro.h"
+
+1673028544 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesEstatisticas.h"
+
+1673028544 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesestatisticas.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673111112 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesportateis.h"
+
+1673108944 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\funcoesrequisicao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesrequisicao.h"
+
+1673109789 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcaoLerAuxiliar.h"
+	"funcoesAvaria.h"
+	"funcoesEstatisticas.h"
+	"funcoesDevolucoes.h"
+
+1673121535 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\ficheiro.c
+	<stdio.h>
+	<stdlib.h>
+	"ficheiro.h"
+
+1673121535 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\ficheiro.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+
+1673124492 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\constantes.h
+
+1673119082 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesportateis.h
+	"constantes.h"
+	"funcaoLerAuxiliar.h"
+
+1673109883 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcaolerauxiliar.h
+	"constantes.h"
+
+1673118765 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesrequisicao.h
+	"constantes.h"
+	"funcoesportateis.h"
+
+1673189623 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcaolerauxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcaoLerAuxiliar.h"
+
+1673200949 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesavaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAvaria.h"
+
+1673118785 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesavaria.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673202326 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesdevolucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesDevolucoes.h"
+
+1673187650 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesdevolucoes.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcoesAvaria.h"
+	"ficheiro.h"
+
+1673202577 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesEstatisticas.h"
+
+1673028544 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesestatisticas.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673196183 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesportateis.h"
+
+1673201300 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\funcoesrequisicao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesrequisicao.h"
+
+1673196234 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcaoLerAuxiliar.h"
+	"funcoesAvaria.h"
+	"funcoesEstatisticas.h"
+	"funcoesDevolucoes.h"
+
+1673121535 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\ficheiro.c
+	<stdio.h>
+	<stdlib.h>
+	"ficheiro.h"
+
+1673121535 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\ficheiro.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+
+1673124492 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\constantes.h
+
+1673119082 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcoesportateis.h
+	"constantes.h"
+	"funcaoLerAuxiliar.h"
+
+1673109883 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcaolerauxiliar.h
+	"constantes.h"
+
+1673118765 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcoesrequisicao.h
+	"constantes.h"
+	"funcoesportateis.h"
+
+1673189623 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcaolerauxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcaoLerAuxiliar.h"
+
+1673202577 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesEstatisticas.h"
+
+1673028544 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcoesestatisticas.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673196183 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesportateis.h"
+
+1673201300 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcoesrequisicao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesrequisicao.h"
+
+1673196234 source:c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcaoLerAuxiliar.h"
+	"funcoesAvaria.h"
+	"funcoesEstatisticas.h"
+	"funcoesDevolucoes.h"
+
+1673208845 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcoesavaria.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673187650 c:\users\filipe silva\desktop\licenciatura\prog i\projeto\teste versao 5\funcoesdevolucoes.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcoesAvaria.h"
+	"ficheiro.h"
+
+1673211472 source:c:\users\user\desktop\teste 10\teste versao 5\ficheiro.c
+	<stdio.h>
+	<stdlib.h>
+	"ficheiro.h"
+
+1673211472 c:\users\user\desktop\teste 10\teste versao 5\ficheiro.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+
+1673211472 c:\users\user\desktop\teste 10\teste versao 5\constantes.h
+
+1673211473 c:\users\user\desktop\teste 10\teste versao 5\funcoesportateis.h
+	"constantes.h"
+	"funcaoLerAuxiliar.h"
+
+1673211472 c:\users\user\desktop\teste 10\teste versao 5\funcaolerauxiliar.h
+	"constantes.h"
+
+1673211473 c:\users\user\desktop\teste 10\teste versao 5\funcoesrequisicao.h
+	"constantes.h"
+	"funcoesportateis.h"
+
+1673211472 source:c:\users\user\desktop\teste 10\teste versao 5\funcaolerauxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcaoLerAuxiliar.h"
+
+1673211472 source:c:\users\user\desktop\teste 10\teste versao 5\funcoesavaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAvaria.h"
+
+1673211472 c:\users\user\desktop\teste 10\teste versao 5\funcoesavaria.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673211472 source:c:\users\user\desktop\teste 10\teste versao 5\funcoesdevolucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesDevolucoes.h"
+
+1673211472 c:\users\user\desktop\teste 10\teste versao 5\funcoesdevolucoes.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcoesAvaria.h"
+	"ficheiro.h"
+
+1673211472 source:c:\users\user\desktop\teste 10\teste versao 5\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesEstatisticas.h"
+
+1673211472 c:\users\user\desktop\teste 10\teste versao 5\funcoesestatisticas.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673211473 source:c:\users\user\desktop\teste 10\teste versao 5\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesportateis.h"
+
+1673211473 source:c:\users\user\desktop\teste 10\teste versao 5\funcoesrequisicao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesrequisicao.h"
+
+1673211473 source:c:\users\user\desktop\teste 10\teste versao 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcaoLerAuxiliar.h"
+	"funcoesAvaria.h"
+	"funcoesEstatisticas.h"
+	"funcoesDevolucoes.h"
+
+1673442070 source:c:\users\user\desktop\teste 11\teste versao 6\ficheiro.c
+	<stdio.h>
+	<stdlib.h>
+	"ficheiro.h"
+
+1673442070 c:\users\user\desktop\teste 11\teste versao 6\ficheiro.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+
+1673442070 c:\users\user\desktop\teste 11\teste versao 6\constantes.h
+
+1673442070 c:\users\user\desktop\teste 11\teste versao 6\funcoesportateis.h
+	"constantes.h"
+	"funcaoLerAuxiliar.h"
+
+1673442070 c:\users\user\desktop\teste 11\teste versao 6\funcaolerauxiliar.h
+	"constantes.h"
+
+1673442070 c:\users\user\desktop\teste 11\teste versao 6\funcoesrequisicao.h
+	"constantes.h"
+	"funcoesportateis.h"
+
+1673442070 source:c:\users\user\desktop\teste 11\teste versao 6\funcaolerauxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcaoLerAuxiliar.h"
+
+1673442070 source:c:\users\user\desktop\teste 11\teste versao 6\funcoesavaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAvaria.h"
+
+1673442070 c:\users\user\desktop\teste 11\teste versao 6\funcoesavaria.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673442070 source:c:\users\user\desktop\teste 11\teste versao 6\funcoesdevolucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesDevolucoes.h"
+
+1673442070 c:\users\user\desktop\teste 11\teste versao 6\funcoesdevolucoes.h
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcoesAvaria.h"
+	"ficheiro.h"
+
+1673442070 source:c:\users\user\desktop\teste 11\teste versao 6\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesEstatisticas.h"
+
+1673442070 c:\users\user\desktop\teste 11\teste versao 6\funcoesestatisticas.h
+	"constantes.h"
+	"funcoesrequisicao.h"
+
+1673442070 source:c:\users\user\desktop\teste 11\teste versao 6\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesportateis.h"
+
+1673442070 source:c:\users\user\desktop\teste 11\teste versao 6\funcoesrequisicao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesrequisicao.h"
+
+1673442070 source:c:\users\user\desktop\teste 11\teste versao 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantes.h"
+	"funcoesportateis.h"
+	"funcoesrequisicao.h"
+	"funcaoLerAuxiliar.h"
+	"funcoesAvaria.h"
+	"funcoesEstatisticas.h"
+	"funcoesDevolucoes.h"
+

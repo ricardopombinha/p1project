@@ -1,0 +1,308 @@
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: AA 
+Numero ID Portatil: 123
+Nome do utente: Ricardo 
+Tipo de utente: Estudante
+Data Requisicao: 31-3-2021 
+Prazo requisitado:22
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 30-4-2021 
+Multa: 80 
+Processador: i3 
+RAM: 4 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: CG 
+Numero ID Portatil: 9999
+Nome do utente: iJSI 
+Tipo de utente: Estudante
+Data Requisicao: 30-1-2020 
+Prazo requisitado:15
+Estado Requisicao: Concluida 
+Local de devolucao: Residencias 
+Data devolucao: 10-2-2020 
+Multa: 0 
+Processador: i3 
+RAM: 16 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: fg 
+Numero ID Portatil: 9999
+Nome do utente: asdas 
+Tipo de utente: Tecnico administrativo
+Data Requisicao: 2-2-2020 
+Prazo requisitado:30
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 15-4-2020 
+Multa: 430 
+Processador: i3 
+RAM: 16 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: AA 
+Numero ID Portatil: 23
+Nome do utente: Ricardo 
+Tipo de utente: Estudante
+Data Requisicao: 5-4-2023 
+Prazo requisitado:18
+Estado Requisicao: Concluida 
+Local de devolucao: Campus5 
+Data devolucao: 5-4-2023 
+Multa: 0 
+Processador: i5 
+RAM: 4 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: A 
+Numero ID Portatil: 23
+Nome do utente: Ricardo 
+Tipo de utente: Estudante
+Data Requisicao: 4-3-2022 
+Prazo requisitado:1
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 5-4-2023 
+Multa: 3960 
+Processador: i5 
+RAM: 4 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: asd 
+Numero ID Portatil: 1
+Nome do utente: antnio 
+Tipo de utente: Tecnico administrativo
+Data Requisicao: 3-3-2020 
+Prazo requisitado:2
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 5-5-2020 
+Multa: 610 
+Processador: i5 
+RAM: 8 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: asdasd 
+Numero ID Portatil: 1
+Nome do utente: antoi 
+Tipo de utente: Tecnico administrativo
+Data Requisicao: 2-2-2020 
+Prazo requisitado:15
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 5-5-2020 
+Multa: 780 
+Processador: i5 
+RAM: 8 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: asdsadasda 
+Numero ID Portatil: 3
+Nome do utente: 200 
+Tipo de utente: Docente
+Data Requisicao: 5-5-2020 
+Prazo requisitado:13
+Estado Requisicao: Concluida 
+Local de devolucao: Campus1 
+Data devolucao: 6-6-2020 
+Multa: 190 
+Processador: i7 
+RAM: 16 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: dsadsa 
+Numero ID Portatil: 4
+Nome do utente: adsdasasd 
+Tipo de utente: Docente
+Data Requisicao: 2-2-2020 
+Prazo requisitado:30
+Estado Requisicao: Concluida 
+Local de devolucao: Campus5 
+Data devolucao: 8-8-2020 
+Multa: 1580 
+Processador: i3 
+RAM: 4 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: adc 
+Numero ID Portatil: 20
+Nome do utente: duarte 
+Tipo de utente: Docente
+Data Requisicao: 1-1-2014 
+Prazo requisitado:17
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 5-5-2020 
+Multa: 22990 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: sadsad 
+Numero ID Portatil: 19
+Nome do utente: antonio 
+Tipo de utente: Tecnico administrativo
+Data Requisicao: 1-1-2023 
+Prazo requisitado:30
+Estado Requisicao: Concluida 
+Local de devolucao: Campus1 
+Data devolucao: 3-3-2023 
+Multa: 310 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: ola 
+Numero ID Portatil: 18
+Nome do utente: antonio 
+Tipo de utente: Estudante
+Data Requisicao: 2-1-2012 
+Prazo requisitado:17
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 2-1-2012 
+Multa: 0 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: adc1 
+Numero ID Portatil: 20
+Nome do utente: antion 
+Tipo de utente: Tecnico administrativo
+Data Requisicao: 2-2-2015 
+Prazo requisitado:23
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 5-3-2015 
+Multa: 80 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: adc2 
+Numero ID Portatil: 20
+Nome do utente: antnio 
+Tipo de utente: Docente
+Data Requisicao: 2-2-2015 
+Prazo requisitado:20
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 3-3-2023 
+Multa: 29310 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: 1 
+Numero ID Portatil: 20
+Nome do utente: portugal 
+Tipo de utente: Estudante
+Data Requisicao: 1-2-2013 
+Prazo requisitado:15
+Estado Requisicao: Concluida 
+Local de devolucao: Residencias 
+Data devolucao: 5-5-2020 
+Multa: 26350 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: asodaopsdj 
+Numero ID Portatil: 15
+Nome do utente: 213123asd 
+Tipo de utente: Tecnico administrativo
+Data Requisicao: 2-12-2020 
+Prazo requisitado:21
+Estado Requisicao: Concluida 
+Local de devolucao: Campus5 
+Data devolucao: 12-12-2023 
+Multa: 10840 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: asdasdsads 
+Numero ID Portatil: 14
+Nome do utente: wqeqwewq 
+Tipo de utente: Tecnico administrativo
+Data Requisicao: 1-1-2020 
+Prazo requisitado:23
+Estado Requisicao: Concluida 
+Local de devolucao: Campus1 
+Data devolucao: 2-2-2020 
+Multa: 90 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: polkijmn h 
+Numero ID Portatil: 8
+Nome do utente: weqwe 
+Tipo de utente: Estudante
+Data Requisicao: 5-5-2015 
+Prazo requisitado:12
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 5-2-2020 
+Multa: 17250 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: poiuyhdnf 
+Numero ID Portatil: 12
+Nome do utente: polkkiuj 
+Tipo de utente: Estudante
+Data Requisicao: 3-3-2014 
+Prazo requisitado:15
+Estado Requisicao: Concluida 
+Local de devolucao: Campus5 
+Data devolucao: 27-3-2014 
+Multa: 90 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: sadasdggsd 
+Numero ID Portatil: 8
+Nome do utente: sadaws 
+Tipo de utente: Estudante
+Data Requisicao: 4-4-2020 
+Prazo requisitado:23
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 20-4-2020 
+Multa: 0 
+Processador: i7 
+RAM: 32 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: a 
+Numero ID Portatil: 56
+Nome do utente: Ricardo 
+Tipo de utente: Estudante
+Data Requisicao: 3-3-2023 
+Prazo requisitado:10
+Estado Requisicao: Concluida 
+Local de devolucao: Residencias 
+Data devolucao: 4-3-2023 
+Multa: 0 
+Processador: i5 
+RAM: 4 GB
+
+		DEVOLUCAO CONCLUIDA
+Codigo da requisicao: AA 
+Numero ID Portatil: 2
+Nome do utente: Ricardo 
+Tipo de utente: Estudante
+Data Requisicao: 4-3-2022 
+Prazo requisitado:15
+Estado Requisicao: Concluida 
+Local de devolucao: Campus2 
+Data devolucao: 22-3-2022 
+Multa: 30 
+Processador: i5 
+RAM: 4 GB
+
